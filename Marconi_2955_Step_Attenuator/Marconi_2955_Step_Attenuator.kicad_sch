@@ -4295,7 +4295,7 @@
 		)
 		(uuid "fc04c2c3-84ec-4595-9432-ffb7df0e09ee")
 	)
-	(text "3x330pF"
+	(text "3x100nF"
 		(exclude_from_sim no)
 		(at 69.342 74.168 0)
 		(effects
@@ -4305,7 +4305,7 @@
 		)
 		(uuid "0622faa2-d02a-4be7-b793-b48d36aa1b73")
 	)
-	(text "3x330pF"
+	(text "3x100nF"
 		(exclude_from_sim no)
 		(at 164.084 74.168 0)
 		(effects
@@ -4315,7 +4315,7 @@
 		)
 		(uuid "20a8152c-85ba-4359-b079-d3d26c2ee309")
 	)
-	(text "3x330pF"
+	(text "3x100nF"
 		(exclude_from_sim no)
 		(at 100.838 74.168 0)
 		(effects
@@ -4325,7 +4325,7 @@
 		)
 		(uuid "4870a035-623b-4549-b4da-aef640aa41ec")
 	)
-	(text "3x330pF"
+	(text "3x100nF"
 		(exclude_from_sim no)
 		(at 131.826 74.422 0)
 		(effects
@@ -4335,7 +4335,7 @@
 		)
 		(uuid "75a3ce00-ae59-45a0-90ef-725a1eaa414c")
 	)
-	(text "3x330pF"
+	(text "3x100nF"
 		(exclude_from_sim no)
 		(at 195.072 74.422 0)
 		(effects
@@ -4626,7 +4626,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 198.1263 76.7277 90)
 			(effects
 				(font
@@ -4694,7 +4694,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 198.1263 79.2677 90)
 			(effects
 				(font
@@ -4762,7 +4762,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 71.1263 74.1877 90)
 			(effects
 				(font
@@ -4839,7 +4839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 148.59 69.85 0)
 			(effects
 				(font
@@ -5440,7 +5440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 116.84 69.85 0)
 			(effects
 				(font
@@ -5565,7 +5565,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 102.8763 74.1877 90)
 			(effects
 				(font
@@ -5633,7 +5633,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 198.1263 74.1877 90)
 			(effects
 				(font
@@ -5701,7 +5701,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 102.362 73.914 90)
 			(effects
 				(font
@@ -5910,7 +5910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 85.09 69.85 0)
 			(effects
 				(font
@@ -6103,7 +6103,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 134.6263 76.7277 90)
 			(effects
 				(font
@@ -6318,7 +6318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 50.8 69.85 0)
 			(effects
 				(font
@@ -6477,7 +6477,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 166.3763 74.1877 90)
 			(effects
 				(font
@@ -6955,7 +6955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 180.34 69.85 0)
 			(effects
 				(font
@@ -7014,7 +7014,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 134.6263 79.2677 90)
 			(effects
 				(font
@@ -7148,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 102.8763 76.7277 90)
 			(effects
 				(font
@@ -7216,7 +7216,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 71.1263 76.7277 90)
 			(effects
 				(font
@@ -7417,7 +7417,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 166.3763 79.2677 90)
 			(effects
 				(font
@@ -7551,7 +7551,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 134.6263 74.1877 90)
 			(effects
 				(font
@@ -7987,7 +7987,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 71.1263 79.2677 90)
 			(effects
 				(font
@@ -8055,7 +8055,7 @@
 				)
 			)
 		)
-		(property "Value" "330pf"
+		(property "Value" "100nF"
 			(at 166.3763 76.7277 90)
 			(effects
 				(font
