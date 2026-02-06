@@ -1,0 +1,18 @@
+.MAR-7SM-plus- :1 ;SMT Gain Block, DC - 2000 MHz, 50
+MAR7SM
+*STM IC
+*NGS
+*PLB 1="RF IN" 2="GND_1" 3="RF-OUT AND DC-IN" 4="GND_2"
+*MXP 4
+*DFN MAR-7SM-plus-
+~!Manufacturer_Name (Mini-Circuits)
+~!Manufacturer_Part_Number (MAR-7SM+)
+~!Mouser Part Number (139-MAR-7SM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Mini-Circuits/MAR-7SM%2b?qs=xZ%2FP%252Ba9zWqZABjWVKrNpKg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.minicircuits.com/WebStore/dashboard.html?model=MAR-7SM%2B)
+~!Height (-)
+~!3D_Model (MAR-7SM+)
+MAR-7SM-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 

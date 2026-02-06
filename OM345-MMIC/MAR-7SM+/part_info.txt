@@ -1,0 +1,9 @@
+Manufacturer=Mini-Circuits
+PartNumber=MAR-7SM+
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=2.3
+Released=2019-11-12 14:11:03
+Downloaded=2025-07-24 17:23:26
+3D=Y

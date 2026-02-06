@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAR-7SM+"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-13-17:18:24)
+    (mountForm default
+        (footprintRef "MAR7SM")
+        (spec "System")
+    )
+)
